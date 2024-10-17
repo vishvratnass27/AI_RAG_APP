@@ -1,0 +1,11 @@
+yum install python3-pip -y
+
+pip3 install langchain-community
+
+pip install langchain-experimental
+
+pip install openai
+
+pip install -qU langchain-community faiss-cpu
+
+pip install steamlit
